@@ -1,4 +1,4 @@
-# Supply Chain management in the context of Rust
+# Supply Chain Management in the context of Rust
 
 This is a GitHub organization focussing on crates around software supply chain management in the contex of the Rust
 programming language.
